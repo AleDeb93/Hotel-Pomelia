@@ -27,7 +27,7 @@ body {
   margin-right: 10px;
   display: grid;
   height: 300px;
-  grid-template-columns: 600px 700px;
+  grid-template-columns: 600px auto;
   grid-template-rows: 300px;
   text-align: center;
   column-gap: 30px;
