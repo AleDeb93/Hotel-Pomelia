@@ -6,7 +6,9 @@ body {
 }
 
 .sezione1 {
-  position: relative;
+  position: flex;
+  justify-content: center;
+  align-items: center;
 }
 .box {
   font-size: 20px;
