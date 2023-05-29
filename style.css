@@ -60,7 +60,7 @@ body {
   margin-right: 10px;
   display: grid;
   height: 450px;
-  grid-template-columns: 900px 500px;
+  grid-template-columns: 900px auto;
   grid-template-rows: 450px;
   text-align: center;
   column-gap: 30px;
